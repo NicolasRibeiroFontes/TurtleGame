@@ -1,0 +1,30 @@
+{
+  "name": "Turtle",
+  "position": {
+    "positionX": 0,
+    "positionY": 0
+  },	
+	"direction": "North",
+	"mines": [
+		{
+      "position": {
+        "positionX": 2,
+        "positionY": 1
+      }
+		},
+		{
+      "position": {
+        "positionX": 2,
+        "positionY": 2
+      }
+		}
+	],
+  "exit": {
+    "positionX": 2,
+    "positionY": 3
+  },
+  "board": {
+    "positionX": 5,
+    "positionY": 5
+  }
+}

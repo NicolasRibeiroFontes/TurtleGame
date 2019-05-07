@@ -1,0 +1,9 @@
+D:\Projetos\Test_Planet_Payment\TurtleGame\TurtleGame\TurtleGame\obj\Debug\TurtleGame.csprojAssemblyReference.cache
+D:\Projetos\Test_Planet_Payment\TurtleGame\TurtleGame\TurtleGame\obj\Debug\TurtleGame.csproj.CoreCompileInputs.cache
+D:\Projetos\Test_Planet_Payment\TurtleGame\TurtleGame\TurtleGame\bin\Debug\TurtleGame.exe.config
+D:\Projetos\Test_Planet_Payment\TurtleGame\TurtleGame\TurtleGame\bin\Debug\TurtleGame.exe
+D:\Projetos\Test_Planet_Payment\TurtleGame\TurtleGame\TurtleGame\bin\Debug\TurtleGame.pdb
+D:\Projetos\Test_Planet_Payment\TurtleGame\TurtleGame\TurtleGame\bin\Debug\Json2KeyValue.dll
+D:\Projetos\Test_Planet_Payment\TurtleGame\TurtleGame\TurtleGame\obj\Debug\TurtleGame.csproj.CopyComplete
+D:\Projetos\Test_Planet_Payment\TurtleGame\TurtleGame\TurtleGame\obj\Debug\TurtleGame.exe
+D:\Projetos\Test_Planet_Payment\TurtleGame\TurtleGame\TurtleGame\obj\Debug\TurtleGame.pdb
